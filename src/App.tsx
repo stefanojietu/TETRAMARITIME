@@ -240,7 +240,7 @@ export default function App() {
             <img
               src={logoUrl}
               alt="TETRAMARITIME"
-              className="h-9 sm:h-10 w-auto object-contain"
+              className="h-10 sm:h-12 md:h-14 w-auto object-contain"
             />
           </a>
           <nav className="flex items-center gap-1 sm:gap-3 text-xs sm:text-sm uppercase tracking-wider font-medium">
