@@ -1,0 +1,6 @@
+{
+  "name": "TETRAMARITIME",
+  "description": "Tetra Maritime is a leading Nigerian ship owner and operator, providing comprehensive marine logistics solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
